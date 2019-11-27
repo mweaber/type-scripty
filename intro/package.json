@@ -1,11 +1,10 @@
 {
   "name": "type-scripty",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "learning typescript",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/mweaber/type-scripty/issues"
   },
-  "homepage": "https://github.com/mweaber/type-scripty#readme",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+  "homepage": "https://github.com/mweaber/type-scripty#readme"
 }
